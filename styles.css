@@ -473,7 +473,8 @@ nav a:hover {
 
     /* footer section */
     .footer-buttons {
-        flex-direction: column; 
+        flex-direction: column;
+        align-items: center;
     }
 
     .btn-footer {
